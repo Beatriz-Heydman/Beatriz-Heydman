@@ -13,7 +13,7 @@ Oi eu sou Beatriz Heydman, desenvolvedora Front-end 💗
 #
 
 ```diff
-* Skills ⭐
+^ Skills ⭐
 ```
 <div>
  <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/html5-512.png" alt="HTML5"/></code>
