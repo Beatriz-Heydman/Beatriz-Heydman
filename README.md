@@ -27,7 +27,7 @@ Oi eu sou Beatriz Heydman, desenvolvedora Front-end 💗
 ##
 
 ```diff
-! Me encontre
+! Me encontre ✨
 ```
 <div> 	
  <a href = "mailto:biaheydman@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB7093?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
