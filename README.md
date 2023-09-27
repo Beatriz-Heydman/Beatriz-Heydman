@@ -9,13 +9,9 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatriz-Heydman&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 </div>
-<!-- <div style="display: inline_block"><br>
-  <img align="center" alt="Beatriz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Beatriz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Beatriz-JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Beatriz-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Beatriz-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div> -->
+
+##
+
 <div>
  <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/html5-512.png" alt="HTML5"/></code>
  <code><img height="32" src="https://th.bing.com/th/id/R.f977ffc8a057f37d0215fb0bb61b0d95?rik=8iCr04yTZGUMtw&riu=http%3a%2f%2fdev-wolf.com%2fwp-content%2fuploads%2f2014%2f12%2fcss.png&ehk=Oce47ACS6fMxiZHb%2fS%2fh1cTxGZaGWXVrmTtNRqkEm5o%3d&risl=&pid=ImgRaw&r=0" alt="CSS"/></code>
