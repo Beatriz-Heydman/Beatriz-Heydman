@@ -7,7 +7,7 @@ Oi eu sou Beatriz Heydman, desenvolvedora Front-end 💗
   <a href="https://github.com/Beatriz-Heydman">
 <div align="start">
 <!-- <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Beatriz-Heydman&show_icons=true&theme=dracula&include_all_commits=true&count_private=tokyonight"/> -->
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatriz-Heydman&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatriz-Heydman&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 </div>
 
