@@ -10,8 +10,8 @@
 </div>
 </div>
 
-## Skills ⭐✨
 
+## Skills ⭐✨
 <div>
  <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/html5-512.png" alt="HTML5"/></code>
  <code><img height="32" src="https://th.bing.com/th/id/R.f977ffc8a057f37d0215fb0bb61b0d95?rik=8iCr04yTZGUMtw&riu=http%3a%2f%2fdev-wolf.com%2fwp-content%2fuploads%2f2014%2f12%2fcss.png&ehk=Oce47ACS6fMxiZHb%2fS%2fh1cTxGZaGWXVrmTtNRqkEm5o%3d&risl=&pid=ImgRaw&r=0" alt="CSS"/></code>
