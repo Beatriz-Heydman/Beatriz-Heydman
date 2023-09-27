@@ -2,7 +2,7 @@
 Oi eu sou Beatriz Heydman, desenvolvedora Front-end 💗
 ```
 
-   <img align="right" height="200" style="margin-left: 25px" src="https://i.pinimg.com/originals/2d/8e/e8/2d8ee815146390d567706f2c7b5c2916.gif"/>
+   <img align="right" height="200" style="margin-left: 25px" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/>
 <div align="center">
   <a href="https://github.com/Beatriz-Heydman">
 <div align="start">
