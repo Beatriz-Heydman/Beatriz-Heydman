@@ -14,7 +14,7 @@ Oi eu sou Beatriz Heydman, desenvolvedora Front-end 💗
 #
 
 ```diff
-> Skills ⭐
+> Minhas skills ⭐
 ```
 <div>
  <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/html5-512.png" alt="HTML5"/></code>
@@ -26,6 +26,9 @@ Oi eu sou Beatriz Heydman, desenvolvedora Front-end 💗
   
 ##
 
+```diff
+! Me encontre
+```
 <div> 	
  <a href = "mailto:biaheydman@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB7093?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href = "https://www.linkedin.com/in/beatriz-heydman/" ><img src="https://img.shields.io/badge/LinkedIn-DB7093?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
