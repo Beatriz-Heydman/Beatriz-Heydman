@@ -2,6 +2,7 @@
 Oi eu sou Beatriz Heydman, desenvolvedora Front-end 💗
 ```
 
+   <img align="right" height="200" style="margin-left: 25px" src="https://i.pinimg.com/originals/2d/8e/e8/2d8ee815146390d567706f2c7b5c2916.gif"/>
 <div align="center">
   <a href="https://github.com/Beatriz-Heydman">
 <div align="start">
@@ -9,9 +10,7 @@ Oi eu sou Beatriz Heydman, desenvolvedora Front-end 💗
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatriz-Heydman&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 </div>
-   <img align="right" height="200" style="margin-left: 25px" src="https://i.pinimg.com/originals/2d/8e/e8/2d8ee815146390d567706f2c7b5c2916.gif"/>
 
-   
 #
 
 ```diff
