@@ -1,5 +1,5 @@
 ```diff
-< Oi eu sou Beatriz Heydman, desenvolvedora Front-end 💗
+ Oi eu sou Beatriz Heydman, desenvolvedora Front-end 💗
 ```
 
    <img align="right" height="200" style="margin-left: 25px" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/>
