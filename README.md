@@ -22,9 +22,9 @@
  <code><img height="32" src="https://unity.voximplant.com/70b5435d958e0eedb7901b2f99fb92a0.png" alt="Javascript"/></code>
  <code><img height="32" src="https://digipa.tech/wp-content/themes/new-magic-website-theme/img/services/it-consulting/typescript-logo.png" alt="Typescript"/></code>
  <code><img height="32" src="https://th.bing.com/th/id/R.effbf04ba1955eed2b94ac1151b72804?rik=H36v%2f0SCr80ukw&riu=http%3a%2f%2fscopeone.ro%2fimages%2freact.png&ehk=cj0YShc1CglzfxPv8Rqvdq%2fWtU1jyGB0Ry5hbYcM%2bFE%3d&risl=&pid=ImgRaw&r=0" alt="React"/></code>
-<!--  <code><img height="32" src="https://lens-storage.storage.googleapis.com/png/a81e5e5db95a4ef69460c86a940e3037" alt="Javascript"/></code> -->
- <code><img height="32" src="https://talks.pixelastic.com/slides/cssparis-2019-12/assets/images/tailwind.png" alt="Javascript"/></code>
- <code><img height="32" src="https://i.altapps.net/icons/tailwind-css-d3b4f.png" alt="Javascript"/></code>
+ <code><img height="32" src="https://lens-storage.storage.googleapis.com/png/a81e5e5db95a4ef69460c86a940e3037" alt="Styled-Components"/></code>
+ <code><img height="32" src="https://i.altapps.net/icons/tailwind-css-d3b4f.png" alt="Tailwind"/></code>
+ <code><img height="32" src="" alt="Sass"/></code>
 </div>
   
 ##
