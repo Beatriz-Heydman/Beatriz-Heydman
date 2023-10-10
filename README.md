@@ -24,7 +24,7 @@
  <code><img height="32" src="https://th.bing.com/th/id/R.effbf04ba1955eed2b94ac1151b72804?rik=H36v%2f0SCr80ukw&riu=http%3a%2f%2fscopeone.ro%2fimages%2freact.png&ehk=cj0YShc1CglzfxPv8Rqvdq%2fWtU1jyGB0Ry5hbYcM%2bFE%3d&risl=&pid=ImgRaw&r=0" alt="React"/></code>
  <code><img height="32" src="https://lens-storage.storage.googleapis.com/png/a81e5e5db95a4ef69460c86a940e3037" alt="Styled-Components"/></code>
  <code><img height="32" src="https://i.altapps.net/icons/tailwind-css-d3b4f.png" alt="Tailwind"/></code>
- <code><img height="32" src="" alt="Sass"/></code>
+ <code><img height="32" src="https://th.bing.com/th/id/R.6d454ae448825df4cd80fb76bd0bbd6a?rik=1wBbK8%2fCYL45ZA&riu=http%3a%2f%2fvanseodesign.com%2fblog%2fwp-content%2fuploads%2f2015%2f09%2fsass-logo-2.png&ehk=oEgMcNWEWG5jNh5Z7TdC2KcqaRR5Fkrs7ZTu06Pu5FI%3d&risl=&pid=ImgRaw&r=0" alt="Sass"/></code>
 </div>
   
 ##
