@@ -34,5 +34,6 @@
 ```
 <div> 	
  <a href = "mailto:biaheydman@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB7093?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
  <a href = "https://www.linkedin.com/in/beatriz-heydman/" ><img src="https://img.shields.io/badge/LinkedIn-DB7093?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
