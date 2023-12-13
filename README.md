@@ -1,5 +1,5 @@
 ```diff
- Oi eu sou Beatriz Heydman, desenvolvedora Front-end 💗
+ Hi, I'm Beatriz Heydman, Front-end developer 💗
 ```
 
    <img align="right" height="200" style="margin-left: 25px" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/>
@@ -14,7 +14,7 @@
 #
 
 ```diff
-> Minhas skills ⭐
+> My skills ⭐
 ```
 <div>
  <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/html5-512.png" alt="HTML5"/></code>
@@ -30,7 +30,7 @@
 ##
 
 ```diff
-! Me encontre ✨
+! Contact me ✨
 ```
 <div> 	
  <a href = "mailto:biaheydman@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB7093?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
