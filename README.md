@@ -1,5 +1,5 @@
 ```diff
- Hi, I'm Beatriz Heydman, Front-end developer 💗
+ Hi, I'm Beatriz, Front-end developer 💗
 ```
 
    <img align="right" height="200" style="margin-left: 25px" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/>
