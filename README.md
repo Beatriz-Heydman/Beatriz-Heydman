@@ -2,8 +2,8 @@
  Hi, I'm Beatriz, Front-end developer 💗
 ```
 
-   <img align="right" height="200" style="margin-left: 25px" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/>
-<div align="center">
+<img align="right" height="200" style="margin-left: 25px" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/>
+<div align="start">
   <a href="https://github.com/Beatriz-Heydman">
 <div align="start">
 <!-- <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Beatriz-Heydman&show_icons=true&theme=dracula&include_all_commits=true&count_private=tokyonight"/> -->
